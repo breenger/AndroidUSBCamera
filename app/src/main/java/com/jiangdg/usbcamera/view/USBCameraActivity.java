@@ -40,6 +40,8 @@ import java.util.List;
 import butterknife.BindView;
 import butterknife.ButterKnife;
 
+import com.serenegiant.widget.IAspectRatioView;
+
 /**
  * UVCCamera use demo
  * <p>
